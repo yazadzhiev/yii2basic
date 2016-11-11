@@ -1,0 +1,3 @@
+User:	yii2basic
+Pass:	ewycJWZvwuB7EEhw
+DB:`	yii2basic
